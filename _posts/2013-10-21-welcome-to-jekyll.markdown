@@ -1,7 +1,11 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
+<<<<<<< HEAD
 date:   2013-10-21 08:26:32
+=======
+date:   2013-10-21 08:13:41
+>>>>>>> bfac816a14a242514647b4da4d054367b07e9234
 categories: jekyll update
 ---
 
